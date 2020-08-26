@@ -1,1 +1,2 @@
 # vscode-wordpress
+# simple build
